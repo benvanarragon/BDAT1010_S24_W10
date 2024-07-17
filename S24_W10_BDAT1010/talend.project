@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_kNkqIURIEe-8Q8lmj-yK6A" label="S24_W10_BDAT1010" description="This is a test project to setup Talend Open Studio" language="java" technicalLabel="S24_W10_BDAT1010" author="_kNkqIkRIEe-8Q8lmj-yK6A" productVersion="Talend Cloud Data Management Platform-8.0.1.20240619_0909-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/benvanarragon/BDAT1010_S24_W10&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_kO-_YERIEe-8Q8lmj-yK6A" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_kNkqIkRIEe-8Q8lmj-yK6A" login="benjamin.vanarragon@trial60372.us.talend.com" firstName="Ben" lastName="V" type="DQ"/>
+</xmi:XMI>
